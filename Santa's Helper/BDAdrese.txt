@@ -1,0 +1,5 @@
+Romania jud Galati loc Tecuci str Mircea_Eliade nr 2
+Romania jud Alba_Iulia loc Moinesti str Campinenilor nr 89
+Romania jud Buzau loc Buzau str Kogalniceanu nr 31
+Romania jud Buzau loc Buzau str Mihai_Eminescu nr 15
+Romania jud Prahova loc Campina str Viilor nr 25
